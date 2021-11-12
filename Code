@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
 
-# NAME       :  SitaSwapnaLakshmi Challapalli
-# Course     :  CSCE 5580 COMPUTER NETWORKS - Section 004
-# Date       :  03/19/2021
-# File Name  :  PortScanner.py
 import socket
 import threading
 import sys
