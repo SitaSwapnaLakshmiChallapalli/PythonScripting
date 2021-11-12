@@ -1,6 +1,3 @@
-# NAME       :  Sita Challapalli
-# Date       :  03/19/2021
-# File Name  :  PortScanner.py
 
 Status  of  services and  their  associated  ports  for  the  TCP  and  UDP  protocols  for  a  given  port  range
 
