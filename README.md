@@ -1,6 +1,4 @@
-# NAME       :  SitaSwapnaLakshmi Challapalli
-# UNT ID     :  11445422
-# Course     :  CSCE 5580 COMPUTER NETWORKS - Section 004
+# NAME       :  Sita Challapalli
 # Date       :  03/19/2021
 # File Name  :  PortScanner.py
 
