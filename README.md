@@ -14,7 +14,7 @@ As it is python file please give "python" while executing the .py file
 
 Example: 
 
-sc1236@cse05:~$ python Portscanner.py
+~$ python Portscanner.py
 usage: ./Portscanner.py <hostname> <protocol> <portlow> <porthigh>
 
  python portscanner.py cse04
